@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="logo.png" alt="Timechain HQ" width="120" height="120" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Timechain-HQ">Timechain HQ</a> ·
+  <a href="https://github.com/Timechain-HQ/roadmap">Roadmap</a> ·
+  <a href="https://www.timecoin.cash">timecoin.cash</a>
+</p>
+
 # Timecoin privacy
+
+Organization roadmap: <https://github.com/Timechain-HQ/roadmap>
 
 The token is Timecoin. The ticker is TIC. This repository states the privacy rules of the testnet at <https://github.com/Timechain-HQ/Timecoin>. It is not a mainnet, and it is not a claim of complete privacy.
 
